@@ -4,7 +4,6 @@ Doing tutorial: https://guides.github.com/activities/hello-world/
 I'm getting ready for a Jekyll class!
 
 To read:
-https://help.github.com/articles/viewing-contributions-on-your-profile/
 https://guides.github.com/features/pages/
 https://jekyllrb.com/docs/github-pages/
 https://pages.github.com/
